@@ -1,0 +1,7 @@
+languages: ["en"]
+
+theme: minima
+
+exclude_from_localizations:
+  - static
+  - CNAME
